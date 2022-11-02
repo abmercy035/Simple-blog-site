@@ -1,3 +1,5 @@
+[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+
 ## A Simple React Blog Application
 
 ## Available Scripts
